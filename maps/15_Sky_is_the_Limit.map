@@ -1,0 +1,45 @@
+border_size=1
+usage=map
+
+Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Gs^Fp, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha, Md, Ms, Ms, Md, Md, Md, Md, Md, Md, Md, Mm, Mm, Mm, Mm
+Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Ha, Aa, Md, Md, Ms, Ms, Ms, Ms, Ms, Ms, Md, Md, Ms, Ms, Ms, Ms, Ha, Md, Md, Md, Ms, Ms, Md, Md, Md, Md, Mm, Mm, Mm, Mm, Mm
+Md, Md, Md, Md, Md, Md, Ms, Md, Md, Md, Ha, Ha, Ha, Md, Md, Ms, Ms, Ms, Ms, Ms, Md, Md, Rrc, Rrc, Rrc, Ms, Ms, Ha, Md, Md, Md, Ms, Md, Md, Md, Md, Ha, Mm, Mm, Mm, Mm, Mm
+Md, Md, Md, Ms, Ms, Ms, Md, Md, Md, Ha, Ha, Ha, Ha, Md, Md, Ms, Ms, Ms, Ms, Ms, Rrc, Rrc, Xos, Xos, Xos, Rrc, Rrc, Ha, Md, Md, Md, Ms, Ms, Ms, Md, Md, Mm, Mm, Mm, Mm, Mm, Mm
+Md, Md, Md, Ms, Ms, Ms, Md, Md, Md, Ha, Ha, Ha, Ha, Ha, Ms, Md, Md, Md, Rrc, Rrc, Xos, Xos, Qxu, Qxu, Qxu, Xos, Xos, Rrc, Rrc, Md, Md, Ms, Ms, Ms, Md, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Ha, Md, Ms, Ms, Ms, Md, Md, Md, Md, Md, Md, Md, Ms, Ms, Ms, Md, Rrc, Rrc, Xos, Xos, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Xos, Xos, Rrc, Rrc, Ms, Ms, Md, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Ha, Md, Md, Md, Md, Md, Md, Md, Rr^Vd, Md, Md, Md, Ms, Md, Ms, Rrc, Rrc, Xos, Xos, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Xos, Xos, Rrc, Md, Md, Mm, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm
+Ha, Ha, Md, Md, Md, Md, Md, Md, Md, Ms, Ms, Mm, Ms, Md, Md, Ms, Ms, Rrc, Rrc, Xos, Xos, Qxu, Qxu, Qxu, Qxu, Qxu, Xos, Xos, Rrc, Rrc, Md, Md, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm
+Md, Md, Md, Md, Md, Md, Md, Md, Md, Ms, Ms, Ms, Md, Md, Md, Md, Ms, Ms, Ms, Rrc, Rrc, Xos, Xos, Qxu, Xos, Xos, Rrc, Rrc, Md, Md, Mm, Mm, Mm, Mm, Ms, Mm, Mm, Ms, Ms, Mm, Mm, Mm
+Md, Md, Md, Md, Md, Md, Md, Md, Ms, Ms, Ms, Ms, Ms, Ms, Md, Md, Md, Ms, Ms, Ms, Ms, Rrc, Rrc, Xos, Rrc, Rrc, Hh, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Ms, Rr^Vd, Mm, Mm, Ms, Mm, Mm, Mm
+Mm, Mm, Mm, Md, Md, Md, Md, Md, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Md, Ms, Ms, Ms, Hh, Hh, Ms, Hh, Rrc, Rrc, Mm, Mm, Ms, Ms, Ms, Ms, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Md, Md, Ms, Hh, Ms, Ms, Ms, Hh, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Ai, Mm, Ms, Ms, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Ms
+Mm, Mm, Mm, Md, Md, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Mm, Ms, Ms, Ms, Mm, Ms, Ms, Mm, Mm, Mm, Mm, Md, Mm, Rrc, Mm, Mm, Mm, Mm, Ms, Ms, Mm, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Md, Md, Md, Mm, Ms, Ms, Ms, Rr^Vd, Ms, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Md, Md, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Ms, Mm
+Mm, Mm, Md, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Ms, Mm, Mm, Mm, Md, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Rr^Vd, Ms, Ms, Mm, Mm, Mm, Ms, Ms
+Mm, Mm, Md, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Mm, Ms, Ms, Ms, Mm, Md, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Ms, Mm
+Md, Mm, Md, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Rr^Vd, Ms, Mm, Md, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Mm, Ms, Mm
+Md, Md, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr^Vd, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Md, Md, Mm, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm
+Md, Mm, Mm, Mm, Mm, Mm, Mm, 2 Koa, Ko, Ko, Ko, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Md, Mm, Mm, Mm, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Md, Md, Mm, Mm, Mm, Mm, Mm, Mm, Ko, Ko, Ko, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Md, Ms, Mm, Mm, Mm, Rrc, Rrc, Mm, Ms, Mm, Ms, Ms, Ms, Mm, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ko, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Md, Ms, Ms, Ms, Mm, Mm, Rrc, Ms, Ms, Ms, Ms, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Md, Ms, Mm, Ms, Ms, Mm, Rrc, Ms, Mm, Ms, Ms, Mm, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Md, Ms, Ms, Ms, Ms, Ms, Mm, Rrc, Mm, Ms, Ms, Rr^Vd, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Rr^Vd, Ms, Md, Mm, Mm, Mm, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Mm, Ms, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Coa, 3 Koa, Ms, Ms, Mm, Mm
+Mm, Mm, Mm, Ms, Mm, Ms, Ms, Ms, Ms, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Ms, Ms, Mm, Ms, Ms, Mm, Mm, Ms, Ms, Mm, Mm, Rr^Vd, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Coa, Coa, Coa, Mm, Ms, Ms, Mm
+Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Rr^Vd, Ms, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms
+Mm, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Ms, Ai, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr^Vd, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Rr^Vd, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, 4 Koa, Mm, Mm, Mm, Mm, Mm, Mm, Rr^Vd, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Ms, Mm, Mm, Mm, Coa, Coa, Coa, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Md, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Coa, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Md, Rrc, Cea, Ms, Ms, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Ms, Ms, Mm, Ms, Ms, Mm, Ms, Mm, Ms, Mm, Ms, Ms, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Mm, Mm, Ms, Mm, Mm, Mm, Rr^Vd, Mm, Ms, Cea, 1 Kea, Cea, Mm, Ms, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Ms, Ms, Mm, Mm, Ms, Ms, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Cea, Cea, Cea, Mm, Ms, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Rrc, Rrc, Ms, Ms, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Rrc, Ms, Ms, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rrc, Rrc, Ms, Mm, Mm
