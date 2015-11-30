@@ -1,5 +1,18 @@
 * Thanks to shadowm on IRC who told me about
   remove_from_carryover_on_defeat=no which allowed the retreating Orcs
   in level 4 to return in level 5
-* large_creaking_door.wav by gregswinford https://freesound.org/people/gregswinford/sounds/70101/ used under permission of Creative Commons Attribution License.
+  
+* Thanks again to shadowm who taught me how to use movement_costs to
+  keep the spider on the web in level 18.
+
+* large_creaking_door.wav by gregswinford
+  https://freesound.org/people/gregswinford/sounds/70101/ used under
+  permission of Creative Commons Attribution License.
+
 * Dark Elves taken from Wesnoth 1.4
+
+* Spider web image by Chen-Pan Liao from Wikipedia:
+  https://commons.wikimedia.org/wiki/File:Typical-orb-web-photo.jpg
+  used under the terms of the Creative Commons Attribution-Share Alike
+  3.0 Unported license
+
