@@ -1,0 +1,35 @@
+border_size=1
+usage=map
+
+Mm, Mm, Mm, Mm, Mm, Mm, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Rr^Vhc, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Hh, Hh, Hh, Hh, Rr^Vhc, Rr, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Rr^Vhc, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Hh, Hh, Hh, Ch, Ch, Ch, Hh, Rr^Vhc, Rr, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Hh, Ch, 1 Kh, Rr, Rr, Rr, Hh, Hh, Rr, Hh, Gs^Fp, Gg, Hh, Gg, Hh, Hh, Hh, Hh, Mm^Edt, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Rp
+Mm, Mm, Mm, Mm, Hh, Ch, Hh, Hh, Hh, Rr, Rr, Rr, Rr, Gg, Gs^Fp, Gs^Fp, Hh, Hh, Hh, Rr^Vhc, Hh, Mm^Edt, Mm^Edt, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Mm
+Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Rr, Gg, Hh, Rr, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm^Edt, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Rr^Vhc, Mm
+Mm, Mm, Mm, Mm, Mm, Rr^Vhc, Hh^Edb, Hh, Hh, Rr^Vhc, Rr, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm^Edt, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr^Vhc, Mm, Rr, Rr, Hh, Hh
+Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Rr, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Hh, Hh, Hh, Hh
+Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Rr^Vhc, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Rr, Hh, Hh, Hh, Hh
+Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Rr, Rr, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh
+Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Rr, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Gg, Gg, Gg
+Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Ch, Ch, Ch, Ch, Ch, Ch, Ch, Ch, Ch, Ch, Hh, Ch, Hh, Hh, Hh, Hh, Hh, Hh, Gg, Rr, Rr, Rb, Rr^Vhc, Gg, Gg, Gg, Gg
+Mm, Mm, Ww, Mm, Ww, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Ch, Ch, Ch, Rr, Ch, Rr, Kh, Rr, Ch, Rr, Ch, Ch, Hh, Rr, Rr, Rr, Rr, Rr, Rr, Gg, Hh, Hh, Rb, Co, Gg, Gs^Fp, Gg
+Ww, Mm, Ww, Ww, Ww, Ww, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Gg, Ch, Ch, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Ch, Ch, Rr, Gg, Gg, Gg, Rr^Vhc, Gg, Gg, Gg, Gg, Gg, Co, 3 Ko, Co, Gg, Gs^Fp
+Ww, Ww, Ww, Ww, Ww, Ww, Ww, Hh, Ww, Ww, Ww, Gg, Gg, Gg, Gg, Ch, Ch, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Co, Co, Co, Gg, Gg
+Ww, Ww^Vm, Ww, Ww, Ww, Ww, Ww, Ww, Ww, Rr^Vhc, Gg, Ww, Ww, Ww, Gg, Ch, Ch, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Ch, Ch^Edt, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Rb, Gg, Gg, Gg
+Ww, Ww, Ww, Ww, Ww, Ww, Hh, Ww, Gg, Hh, Gg, Gg, Gg, Ww, Gg, Ch, Ch, Ch, Ch, Ch, Ch, Ch, Chr^Edt, Ch, Ch^Edt, Ch, Ch, Gg, Gg, Gg, Rr, Rr, Rr, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Wwf, Gg, Gg, Hh
+Hh, Ww, Ww, Ww, Ww, Ww, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Ww, Gg, Ch, Ch, Ch, Ch, Ch, Gg, Ch, Gg, Ch, Gg, Ch, Gg, Rr, Rr, Rr, Gg, Gg, Gg, Rr, Rr, Gs^Fp, Gs^Fp, Ww, Wwf, Rr^Vhc, Ww, Hh
+Hh, Ww, Ww, Hh, Hh, Hh, Hh, Hh, Hh, Gg, Gg, Gg, Gs^Fp, Ww, Gg, Ch, Gg, Ch, Gg, Gg, Gg, Ww, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Rr, Rr, Gg, Gg, Gg, Ch, Ww, Ww, Ww, Rb, Ww, Ww, Ww
+Hh, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Gs^Fp, Gs^Fp, Gg, Gs^Fp, Ww, Ww, Gg, Ww, Gg, Gg, Gg, Ww, Ww, Ww, Gg, Gg, Ww, Ww, Ww, Ww, Ww, Ww, Rp, Ww^Bw\r, Ww, Ww, Rr, Gg, Ww, Rb, Hh, Hh, Ww
+Hh, Hh, Hh, Hh, Hh, Gg, Gg, Hh, Gs^Fp, Gs^Fp, Hh, Hh, Hh, Ww, Ww, Gg, Ww, Ww, Ww, Ww, Ww, Ww, Ww, Gg, Ww, Ww, Gg, Gg, Gg, Ww, Ww, Rr^Vhc, Ww, Ww^Bw\r, Rr, Rr, Rr, Rb, Hh, Hh, Gg, Gg
+Hh, Hh, Hh, Hh, Hh, Hh, Gs^Fp, Gs^Fp, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Ww, Gg, Gg, Gg, Gg, Rr, Gg, Gg, Ww, Ww, Ww, Gg, Gg, Gg, Gg, Gg, Ww, Gg, Gs^Fp, Gs^Fp, Rr, Rr, Rb, Gg, Gg, Gg, Gg
+Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr^Vhc, Hh^Es, Hh, Hh, Rr^Vhc, Hh, Hh, Hh, Hh, Hh, Rr, Rr, Gg, Rr, Rr, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gs^Fp, Rr, Rr, Rr, Gg, Gg, Gg
+Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Rr, Rr, Rr, Gs^Fp, Gs^Fp, Gs^Fp, Rr, Rb, Gg, Rr, Rr, Gg
+Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Hh, Hh, Hh, Rr, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr^Vhc, Hh, Hh, Rr, Gs^Fp, Gs^Fp, Rr, Co, Rb, Gg, Gg, Gg, Rr
+Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Rr, Rr, Rr^Vhc, Mm^Edb, Mm, Mm, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Hh, Rr, Rr, Co, 2 Ko, Co, Rr^Vhc, Gs^Fp, Gg, Gg
+Hh, Hh, Hh, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Mm^Edb, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Gs^Fp, Gg, Co, Co, Co, Gg, Gg, Gg, Rr
+Mm, Mm, Mm, Mm, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm^Edb, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Mm, Mm, Mm, Mm^Edb, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Gg, Rr^Vhc, Gg, Rp, Rr, Rr, Rr, Rr
+Mm, Mm, Mm, Mm, Hh, Rr^Vhc, Rr^Vhc, Mm^Edb, Mm, Mm, Mm, Mm^Dr, Rr^Vhc, Mm^Es, Mm, Mm, Mm, Mm, Mm, Rr, Mm, Mm, Mm^Edb, Mm^Es, Rr^Vhc, Mm^Edt, Mm^Edt, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg
+Mm, Mm, Mm, Mm, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm^Dr, Mm, Mm, Mm, Mm, Mm, Rr, Mm, Mm, Mm, Mm^Edb, Mm, Mm^Edb, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Rr, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Gs^Fp
