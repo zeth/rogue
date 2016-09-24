@@ -1,0 +1,30 @@
+border_size=1
+usage=map
+
+Gg, Gg^Edb, Gg^Edb, Gg, Gg, Gg, Gs^Vh, Gg, Gg, Gg, Gg, Gg, Gg, Ww, Ww, Gg, Rr, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ss, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ww, Ww, Gg, Gg, Gg, Rr, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ww, Gg, Gg, Gg, Ch, Gg, Rr, Gg, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Ww, Ww, Gg, Gg, Ch, Ch, Gg, Rr, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Ww, Gg, Ch, Ch, Gg^Vh, Ch, Gg, Rr, Gg, Ch, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Ww, Ww, Ch, Ch, Gg, Ch, Gg, Gg, Rr, Rr, Gg, Gg, Gg^Vh, Ch, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gs^Fp, Gs^Fp, Gs^Fp, Re, Gg, Gg, Gg, Ww, Ch, Gg, Gg, Gg, Ch, Ch, Gg, Rr, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gs^Fp
+Gg, Re, Re, Gg, Gg, Ch, Ch, Gg, Ww, Gg, Gg^Vh, Gg, Gg, Gg, Gg, Gg, Rr, Gg, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gs^Fp, Gs^Fp
+Re, Gs^Fp, Gs^Fp, Gg, Gg, Ch, Gg, Gg, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Rr, Rr, Gg, Gg, Gg, Gg, Gg, Rr, Gg, Gg^Vh, Gg, Gg, Gg, Gg, Gg, Gg
+Re, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Ww, Ww^Bw/, Gg, Gg, Gg, Ch, Gg, Ch, Ch, Rr, Ch, Ch, Gg, Ch, Gg, Rr, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg
+Re, Gg, Gg, Ch, Gg, Gg, Gg, Gg^Vh, Gg, Gg, Ww, Gg, Gg, Gg, Kh, Rr, Rr, Rr, Rr, Rr, Kh, Gg, Gg, Rr, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg
+Re, Gg, Ch, Gg, Gg, Gg, Hh, Hh, Gg, Gg, Ww, Gg, Gg, Gg, Ch, Rr, Kh, Ch, Kh, Rr, Ch, Rr, Rr, Ch, Rr, Rr, Gg, Gg, Ch, Gg, Gg, Gg
+Gg, Gg, Gg, Ch, Gg, Gg, Hh, Gg, Gg, Gg, Ww, Gg, Gg, Gg, Ch, Rr, Ch, 1 Kh, Ch, Rr, Rr, Ch, Ch, Gg, Gg, Rr, Gg, Gg, Ch, Gg, Gg, Gg
+Gg, Gg, Ch, Gg, Gg, Gg, Hh, Gg, Gg, Ww, Ww, Gg, Gg, Rr, Rr, Rr, Ch, Ch, Ch, Rr, Rr, Kh, Gg, Gg, Gg, Rr, Gg^Vh, Gg, Ch, Ch, Gg, Gg
+Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Ww^Bw/, Gg, Gg, Rr, Ch, Ch, Kh, Rr, Rr, Rr, Rr, Rr, Ch, Gg, Gg, Gg, Gg, Rr, Re, Ch, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg, Gg, Ww, Gg, Ww, Gg, Gg, Gg, Gg, Ch, Rr, Rr, Rr, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Re, Rd, Gg, Rd
+Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg, Gg, Gg, Ww, Ww, Ww, Gg, Gg, Gg, Ch, Ch, Gg, Rr, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Rd, Gg
+Hh, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg^Vh, Gg, Gg, Ww, Ww, Ww, Gg, Gg, Gg, Gg, Gg, Rr, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg
+Hh, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Gg, Gg, Ww^Bw\, Gg, Ww, Gg, Gg, Gs^Fp, Gg, Rr, Rr, Gs^Fp, Gg, Gg^Vh, Gs^Fp, Gg, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gs^Fp
+Hh, Hh, Hh, Gg, Gg, Gg, Ch, Ch, Gg, Ww, Ww, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Rr, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Hh, Gg, Gg, Gg, Gg, Gg, Ch, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Rr, Gg, Gg, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ww, Ch, Gg, Gg, Gg, Gg, Gg^Vh, Gg, Rr, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Ww, Ww, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Ww, Gg, Ww, Ww, Gg, Gg, Gg, Ch, Ch, Gg, Gg, Gg, Rr, Gg, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Ww, Gg, Gs^Vh, Gg, Gg
+Gg, Ww, Ww, Ww, Ww^Bw\, Gg, Ww, Gg, Ww, Gg, Gg, Gg, Gg, Gg, Ch, Ch, Gg, Ch, Rr, Rr, Gg, Gg, Gg, Gg, Gg, Ww, Ww, Gg, Gg, Gg, Gg, Gg
+Ww, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ch, Gg, Gg, Rr, Gg, Ww, Ww, Ww, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Ww, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Ww, Ww, Ww, Re, Ww, Gg, Ww, Gg, Gg, Gg, Gg, Gg, Ww, Ww^Bw\, Rd, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Vh
+Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Ww, Gg, Gs^Fp, Ww, Gs^Fp, Ww, Gg, Ww, Ww, Gg, Gg, Ww, Ww, Gg, Gg, Rd, Rd, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
