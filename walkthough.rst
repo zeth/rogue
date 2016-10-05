@@ -135,6 +135,19 @@ this scenario, we get to do the reverse, we get to lead the horde
 against the city. However, the forces of Weldyn will not yield
 lightly.
 
+Reinforcements arrive on turns 10 and 20. You not only need to survive
+until then but you also should scoop up some villages so that you can
+recruit extra units.
+
+One approach is to split your force into three, one third goes north
+through the forest to take out the eastern leader, one third goes west
+to take out the southern leader and the last third meets the oncoming
+attack coming out of the city.
+
+On this level, Edwin has a special skill where if he defeats a unit,
+he can make another attack. Valda also uses her magic, which means if
+Valda or Edwin are defeated, they get a second chance.
+
 Act Three
 ---------
 
