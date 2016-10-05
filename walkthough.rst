@@ -144,6 +144,10 @@ through the forest to take out the eastern leader, one third goes west
 to take out the southern leader and the last third meets the oncoming
 attack coming out of the city.
 
+The force that takes out the eastern leader should include one or
+several units with a high level of mobility in the forest such as a
+bat or a spider.
+
 On this level, Edwin has a special skill where if he defeats a unit,
 he can make another attack. Valda also uses her magic, which means if
 Valda or Edwin are defeated, they get a second chance.
