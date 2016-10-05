@@ -28,3 +28,8 @@ the files in the add on folder. On Linux, you can use a symlink like this::
   git clone https://github.com/zeth/rogue
   cd rogue
   ln -s `pwd`/Revenge_of_the_Rogue ~/.local/share/wesnoth/1.12/data/add-ons/
+
+Discussion forum post
+---------------------
+
+https://forums.wesnoth.org/viewtopic.php?f=8&t=44673
